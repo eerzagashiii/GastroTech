@@ -7,8 +7,8 @@
     $takeaway = 0;
     
     if(isset($_POST['login'])){
-        if($_POST['uname'] == 'yajmanre' && $_POST['pass'] == 'yajman!123'){
-             $_SESSION['admin'] = 'yajmanre';  
+        if($_POST['uname'] == 'melisa' && $_POST['pass'] == 'eneida'){
+             $_SESSION['admin'] = 'gastro';  
         }
         else{
             echo 'Enter Correct User Details';
