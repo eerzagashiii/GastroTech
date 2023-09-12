@@ -76,6 +76,9 @@
     
     <nav class="nav nav-pills flex-column flex-sm-row">
   <a class="flex-sm-fill text-sm-center nav-link active" href="admin-panel.php">Home</a>
+  <a class="flex-sm-fill text-sm-center nav-link active" href="add_feedback.php">ADD</a>
+  <a class="flex-sm-fill text-sm-center nav-link active" href="update_feedback.php">UPDATE</a>
+  <a class="flex-sm-fill text-sm-center nav-link active" href="delete_feeback.php">DELETE</a>
   <a class="flex-sm-fill text-sm-center nav-link" href="analysis.php">Analysis</a>
 </nav>
         <div class="empty">
