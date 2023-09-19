@@ -30,7 +30,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
      <!-- Site Metas -->
-    <title>Yajman Restaurant and Banquet</title>
+    <title>Mrizi Restaurant and Banquet</title>
     <meta name="keywords" content="">
     <meta name="description" content="">
     <meta name="author" content="">

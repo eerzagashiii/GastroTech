@@ -1,3 +1,5 @@
+<h1 class="dashboard-heading">Dashboard</h1>
+
 <?php
     session_start();
     date_default_timezone_set('Asia/Kolkata');
@@ -47,6 +49,17 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+        <style>
+          .dashboard-heading {
+    font-size: 28px; /* Adjust the font size as needed */
+    font-weight: bold; /* Make the text bold */
+    color: #333; /* Change the text color to your preference */
+    text-align: center; /* Center-align the text */
+    margin-top: 20px; /* Add margin-top to control the spacing from the elements above */
+    /* You can add more styling properties here, such as text shadow, background color, etc. */
+}
+
+          </style>
     </head>
     <script type="text/javascript">
 function load()
@@ -109,9 +122,9 @@ setTimeout("window.open(self.location, '_self');", 60000);
                 <a class="nav-link" href="view_feedback.php"  >View Feedback</a>
               </li>
 
-              <!--Rinesa -->  <i>Staff table - Chefs</i>
-                <!--Eneida --> <i> Review table </i>
-                  <!--Erza --> <i> Events - private - public</i>
+              <!--Rinesa -->  <i>Menager</i><br>
+                <!--Eneida --> <i> Review table </i><br><br>
+                  <!--Erza --> <i> Events - private - public</i><br>
 
               
             </ul>

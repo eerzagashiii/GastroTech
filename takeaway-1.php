@@ -32,7 +32,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
      <!-- Site Metas -->
-    <title>Yajman Restaurant and Banquet</title>
+    <title>Mrizi Restaurant and Banquet</title>
     <meta name="keywords" content="">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -450,7 +450,7 @@
 					<div class="overflow-hidden">
 						<h4>Email</h4>
 						<p class="lead">
-							restaurantyajman@gmail.com
+							restaurantmrizi@gmail.com
 						</p>
 					</div>
 				</div>
@@ -459,7 +459,7 @@
 					<div class="overflow-hidden">
 						<h4>Location</h4>
 						<p class="lead">
-							Yajman Restaurant, Dharm Nagar II, Sabarmati, Ahmedabad.
+							Mrizi Restaurant, Eqrem Qabej, Prishtine, Kosovo.
 						</p>
 					</div>
 				</div>
@@ -487,9 +487,9 @@
 				</div>
 				<div class="col-lg-4 col-md-6">
 					<h3>Contact information</h3>
-					<p class="lead">Yajman Restaurant, Dharm Nagar II, Sabarmati, Ahmedabad, Gujarat 380005</p>
-					<p class="lead"><a href="tel:8469000683">84690 00683,</a> &nbsp;<a href="tel:8128141047">81281 41047</a></p>
-					<p><a href="mailto:restaurantyajman@gmail.com"> restaurantyajman@gmail.com</a></p>
+					<p class="lead">Mrizi Restaurant, Eqrem Qabej, Prishtine, Kosovo, 10000</p>
+					<p class="lead"><a href="tel:8469000683">+383 44 111 111,</a> &nbsp;<a href="tel:8128141047">+383 49 222 222</a></p>
+					<p><a href="mailto:restaurantyajman@gmail.com"> restaurantmrizi@gmail.com</a></p>
 				</div>
 				<div class="col-lg-4 col-md-6">
 					<h3>Opening hours</h3>
@@ -503,7 +503,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12">
-						<p class="company-name">Rights Reserved. &copy; 2020 <a href="./index.php">&nbsp;Yajman Restaurant & Banquet</a> <br>Managed By 'J The Vision' Group<br>Developed By <a href="https://thewebmate.in" target="_blank">Webmate Web Services</a></p>
+						<p class="company-name">Rights Reserved. &copy; 2020 <a href="./index.php">&nbsp;Mrizi Restaurant & Banquet</a> <br>Managed By 'J The Vision' Group<br>Developed By <a href="https://thewebmate.in" target="_blank">Webmate Web Services</a></p>
 					</div>
 				</div>
 			</div>

@@ -1,6 +1,8 @@
 <?php
     require 'db.php';
+    
     date_default_timezone_set('Asia/Kolkata');
+
     $query = "select * from banquet_menu_plan";
     $exec = mysqli_query($con,$query);
 ?>

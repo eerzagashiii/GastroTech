@@ -116,8 +116,8 @@
 			<div class="row">
 				<div class="col-lg-6 col-md-6 col-sm-12 text-center">
 					<div class="inner-column">
-						<h1>Welcome To <span>Yajman Restaurant & Banquet</span></h1>
-						<p>Yajman Restauarant is a bench mark for Taste & Hygiene. We offer best quality food with premium services. Trending Takeaway service is also available here. Yajman Banquet is perfect location for all your functions. Now book your banquet online and celebrate the function offline!</p>
+						<h1>Welcome To <span>Mrizi Restaurant & Banquet</span></h1>
+						<p>Mrizi Restauarant is a bench mark for Taste & Hygiene. We offer best quality food with premium services. Trending Takeaway service is also available here. Yajman Banquet is perfect location for all your functions. Now book your banquet online and celebrate the function offline!</p>
 						<a class="btn btn-lg btn-circle btn-outline-new-white" href="#services">Book a Order Now</a>
 					</div>
 				</div>
@@ -137,7 +137,7 @@
 					<p class="lead ">
 						Best Food. Best Services. Best Banquest Hall.
 					</p>
-					<span class="lead">Yajman Restaurant & Banquet</span>
+					<span class="lead">Mrizi Restaurant & Banquet</span>
 				</div>
 			</div>
 		</div>
@@ -456,7 +456,7 @@
 								<div class="img-box p-1 border rounded-circle m-auto">
 									<img class="d-block w-100 rounded-circle" src="images/quotations-button.png" alt="">
 								</div>
-								<h5 class="mt-4 mb-0"><strong class="text-warning text-uppercase">Ravindra Patel</strong></h5>
+								<h5 class="mt-4 mb-0"><strong class="text-warning text-uppercase">Melisa Kololli</strong></h5>
 								<!--<h6 class="text-dark m-0">Senior Technician</h6>-->
 								<p class="m-0 pt-3">Really good services and good food dishes. Infact this is my all time favourite restaurant.</p>
 							</div>
@@ -464,16 +464,16 @@
 								<div class="img-box p-1 border rounded-circle m-auto">
 									<img class="d-block w-100 rounded-circle" src="images/quotations-button.png" alt="">
 								</div>
-								<h5 class="mt-4 mb-0"><strong class="text-warning text-uppercase">Jatin Patel</strong></h5>
+								<h5 class="mt-4 mb-0"><strong class="text-warning text-uppercase">Eneida Bojaj</strong></h5>
 								<!--<h6 class="text-dark m-0">Business Man</h6>-->
 								<p class="m-0 pt-3">Banquet decoration was very attractive. Food menu and other services were very appreciable; and at reasonalble rate.</p></div>
 							<div class="carousel-item text-center">
 								<div class="img-box p-1 border rounded-circle m-auto">
 									<img class="d-block w-100 rounded-circle" src="images/quotations-button.png" alt="">
 								</div>
-								<h5 class="mt-4 mb-0"><strong class="text-warning text-uppercase">Kishan</strong></h5>
+								<h5 class="mt-4 mb-0"><strong class="text-warning text-uppercase">Rinesa Kuqi</strong></h5>
 								<!--<h6 class="text-dark m-0">Professor</h6>-->
-								<p class="m-0 pt-3">Yajmaan Restaurant is our family restaurant. Such a great dishes and taste. Very fascinating management.</p>
+								<p class="m-0 pt-3">Mrizi Restaurant is our family restaurant. Such a great dishes and taste. Very fascinating management.</p>
 							</div>
 						</div>
 						<a class="carousel-control-prev" href="#reviews" role="button" data-slide="prev">
@@ -500,8 +500,8 @@
 					<div class="overflow-hidden">
 						<h4>Phone</h4>
 						<p class="lead">
-							84690 00683, &nbsp;
-							81281 41047
+							+383 44 111 111, &nbsp;
+							+383 49 222 222
 						</p>
 					</div>
 				</div>
@@ -510,7 +510,7 @@
 					<div class="overflow-hidden">
 						<h4>Email</h4>
 						<p class="lead">
-							restaurantyajman@gmail.com
+							restaurantmrizi@gmail.com
 						</p>
 					</div>
 				</div>
@@ -519,7 +519,7 @@
 					<div class="overflow-hidden">
 						<h4>Location</h4>
 						<p class="lead">
-							Yajman Restaurant, Dharm Nagar II, Sabarmati, Ahmedabad.
+						Mrizi Restaurant, Eqrem Qabej, Prishtine, Kosovo, 10000.
 						</p>
 					</div>
 				</div>
@@ -535,7 +535,7 @@
 				<div class="col-lg-4 col-md-6">
 					<h3>Managed By</h3>
 					<p>
-					<img src="./images/j-logo.png" height="80px" width="80px" style="border-radius:12px">
+					<img src="./images/logo1.png" height="80px" width="80px" style="border-radius:12px">
 					<span style="padding:8px">'J The Vision' Group </span>
 					</p>
 					<ul style="padding:10px">
@@ -547,9 +547,9 @@
 				</div>
 				<div class="col-lg-4 col-md-6">
 					<h3>Contact information</h3>
-					<p class="lead">Yajman Restaurant, Dharm Nagar II, Sabarmati, Ahmedabad, Gujarat 380005</p>
-					<p class="lead"><a href="tel:8469000683">84690 00683,</a> &nbsp;<a href="tel:8128141047">81281 41047</a></p>
-					<p><a href="mailto:restaurantyajman@gmail.com"> restaurantyajman@gmail.com</a></p>
+					<p class="lead">Mrizi Restaurant, Eqrem Qabej, Prishtine, Kosovo, 10000</p>
+					<p class="lead"><a href="tel:8469000683">+383 44 111 111,</a> &nbsp;<a href="tel:8128141047">+383 49 222 222</a></p>
+					<p><a href="mailto:restaurantyajman@gmail.com"> restaurantmrizi@gmail.com</a></p>
 				</div>
 				<div class="col-lg-4 col-md-6">
 					<h3>Opening hours</h3>
@@ -563,7 +563,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12">
-						<p class="company-name">Rights Reserved. &copy; 2020 <a href="./index.php">&nbsp;Yajman Restaurant & Banquet</a> <br>Managed By 'J The Vision' Group <br>Developed By <a href="https://thewebmate.in" target="_blank">Webmate Web Services</a></p>
+						<p class="company-name">Rights Reserved. &copy; 2020 <a href="./index.php">&nbsp;Mrizi Restaurant & Banquet</a> <br>Managed By 'J The Vision' Group <br>Developed By <a href="https://thewebmate.in" target="_blank">Webmate Web Services</a></p>
 					</div>
 				</div>
 			</div>
